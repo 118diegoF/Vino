@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<body style="background-color:White;">
+<h1 style="text-align:center;">Vino Blanco</h1>
+<p>El vino blanco es una variedad de vino que puede oscilar entre las tonalidades amarillo pajizo, amarillo verdoso o amarillo oro. Se produce por la fermentacion alcoholica de la pulpa no coloreada de uvas que pueden tener una piel de color blanco o negro, a fin de mantener un color amarillo transparente en el producto final. La amplia variedad de vinos blancos proviene de la gran cantidad de cepas y metodos de elaboracion empleados, asi como de la relacion de azucar residual.
+El vino blanco se estima que se consume desde hace 2500 años. Ha acompañado el desarrollo economico y se ha instalado en todos los paises con tradicion en el consumo de vino, principalmente en Europa, America y Oceania.</p>
+<img src="https://www.vinetur.com/imagenes/2017/junio/6/vino_blanco.jpg" alt="vino blanco" style="width:500px;height:600px;">
+<img src="https://www.cestalia.com/blog/wp-content/uploads/2021/06/vino-blanco.jpg" alt="vino blanco" style="width:500px;height:600px;">
+<img src="https://ags.wine/wp-content/uploads/2021/11/people-drinking-wine-nuts-toast-picnic-glass-pistachios-social-media-cheese-luxury-wineglass-cheers_t20_nLVnJP-1050x658.jpg" alt="vino blanco" style="width:400px;height:600px;">
+
+</body>
+</html>
