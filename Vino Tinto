@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<body style="background-color:White;">
+<h1 style="text-align:center;">Vino Tinto</h1>
+<p>El vino tinto es un tipo de vino procedente mayormente de mostos de uvas tintas, con la elaboracion pertinente para conseguir la difusion de la materia colorante que contienen los hollejos de la uva. En funcion del tiempo de envejecimiento que se realice en la barrica y en la botella, pueden obtenerse vinos jovenes, crianzas, reservas o grandes reservas.</p>
+<img src="https://elvineke.com/wp-content/uploads/2018/11/copa.jpg" alt="vino tinto" style="width:500px;height:600px;">
+<img src="https://www.cocinayvino.com/wp-content/uploads/2016/05/65293479_m-e1631728018462.jpg" alt="vino tinto" style="width:500px;height:600px;">
+<img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/1609A/production/_95566209_gettyimages-665572872.jpg" alt="vino tinto" style="width:400px;height:600px;">
+
+</body>
+</html>
